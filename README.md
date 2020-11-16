@@ -1,7 +1,7 @@
-# Home-page-instagram
+# Home Page Instagram
 
 # O projeto 
-Projeto resultante da aula "Recriando a página inicial do Instagram" do Bootcamp da DIO.
+Projeto resultante da aula "Recriando a página inicial do Instagram" do Bootcamp da DIO, onde foi proposto a  recriação da Home Page do Instagram.
 
 # Qual o diferencial?
 
