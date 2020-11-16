@@ -14,5 +14,8 @@ O projeto original não possuía os elementos da página inicial oficial do Inst
 * Posicionamento
 * Responsividade com Media Queries 
 
+## Deploy
 
 Para ver o Deploy acesse por <a href="https://rogunique.github.io/home-page-instagram/">aqui</a>.
+
+
