@@ -12,6 +12,7 @@ O projeto original não possuía os elementos da página inicial oficial do Inst
 * Flex-Box
 * Animações CSS
 * Posicionamento
+* Media Queries 
 
 
 
